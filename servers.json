@@ -55,6 +55,10 @@
     {
       "name": "StikTech",
       "address": "https://ani.stik.tech"
+    },
+    {
+    "name": "asalg",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "https://github.com/AhmadXCDXX/.github.io"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
